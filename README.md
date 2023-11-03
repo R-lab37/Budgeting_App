@@ -1,3 +1,5 @@
-# budgeting_app
+# Budgeting App 
 
-A new Flutter project.
+
+![Budgeting App](https://github.com/R-lab37/Budgeting_App/blob/main/budget_app.png)
+
